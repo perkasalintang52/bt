@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+919536476115']
-global.premium = ['+919536476115']
-global.ownernomer = '919536476115'
-global.ownername = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍'
-global.botname = 'ＴＩＮΛ'
-global.footer = 'ＴＩＮΛ ❤️😎👨🏻‍💻'
-global.ig = 'https://github.com/LOSTHACKEROFC'
-global.region = 'India, North India, UTTRAKHAND'
-global.sc = 'https://github.com/LOSTHACKEROFC/TINA'
-global.myweb = 'https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA'
-global.packname = 'ＴＩＮΛ 👨🏻‍💻❤️'
-global.author = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍 ❤️'
+global.owner = ['+6281322577123']
+global.premium = ['+6281322577123']
+global.ownernomer = '6281322577123'
+global.ownername = 'Lintang'
+global.botname = 'LINTANG'
+global.footer = 'LINTANG 😎👨🏻‍💻'
+global.ig = 'https://instagram.com/joceylintangg'
+global.region = 'Indonesia, DKI JAKARTA, JAKARTA SELATAN'
+global.sc = 'https://instagram.com/joceylintangg'
+global.myweb = 'https://tiktok.com/@joceylintangg'
+global.packname = 'LINTANG 👨🏻‍💻😎'
+global.author = 'LINTANG 😎'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
